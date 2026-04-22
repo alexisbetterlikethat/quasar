@@ -2188,5 +2188,33 @@
 		"path": "/html/smb/",
 		"img": "/smb.webp",
 		"category": ["Action", "Webport"]
+	},
+	{
+		"name": "Clicker Heroes",
+		"id": "ch",
+		"path": "/webgl/ch",
+		"img": "/ch.webp",
+		"category": ["Clicker", "Webport"]
+	},
+	{
+		"name": "Alien Hominid",
+		"id": "alien",
+		"path": "/flash/alien",
+		"img": "/alien.webp",
+		"category": ["Action", "Flash"]
+	},
+	{
+		"name": "Crush the Castle",
+		"id": "cctr",
+		"path": "/flash/cctr",
+		"img": "/cctr.webp",
+		"category": ["Strategy", "Flash"]
+	},
+	{
+		"name": "God of War: Ghost of Sparta",
+		"id": "gowgos",
+		"path": "/emulator/psp/gowgos",
+		"img": "/gowgos.webp",
+		"category": ["Action"]
 	}
 ]
